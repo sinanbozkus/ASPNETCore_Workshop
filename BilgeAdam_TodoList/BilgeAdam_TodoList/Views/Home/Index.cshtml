@@ -1,0 +1,32 @@
+﻿@model List<ListViewModel>
+
+<a asp-action="Yeni" asp-controller="Home" class="btn btn-success">Yeni Yapılacak</a>
+
+<h2>Yapılacak Listem</h2>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Başlık</th>
+                <th>Tarih</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            @foreach (var item in Model.Where(x => x.Aktif).OrderBy(x => x.Tarih).ToList())
+            {
+                <tr>
+                    <td>@item.Baslik</td>
+                    <td>@item.Tarih.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td>
+                        <a href="#" class="btn btn-default">Düzenle</a>
+                        <a href="#" class="btn btn-default">Tamamlandı</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+<h2>Tamamlananlar</h2>

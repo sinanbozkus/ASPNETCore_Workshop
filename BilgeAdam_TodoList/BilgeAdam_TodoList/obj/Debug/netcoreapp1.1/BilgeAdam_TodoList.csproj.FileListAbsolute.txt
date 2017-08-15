@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\bin\Debug\netcoreapp1.1\BilgeAdam_TodoList.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\bin\Debug\netcoreapp1.1\BilgeAdam_TodoList.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\bin\Debug\netcoreapp1.1\BilgeAdam_TodoList.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\bin\Debug\netcoreapp1.1\BilgeAdam_TodoList.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\bin\Debug\netcoreapp1.1\BilgeAdam_TodoList.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\obj\Debug\netcoreapp1.1\BilgeAdam_TodoList.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\obj\Debug\netcoreapp1.1\BilgeAdam_TodoList.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\obj\Debug\netcoreapp1.1\BilgeAdam_TodoList.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_TodoList\BilgeAdam_TodoList\obj\Debug\netcoreapp1.1\BilgeAdam_TodoList.pdb
