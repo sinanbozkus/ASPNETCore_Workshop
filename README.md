@@ -1,2 +1,2 @@
-# ASP.NETCore_Workshop_TodoList
-Bilge Adam Ankara Asp.Net Core Workshop Todo List
+# ASPNETCore_Workshop
+Bilge Adam Ankara Asp.Net Core Workshop Örnek Kodlar ve Yapılacaklar Listesi Uygulaması
