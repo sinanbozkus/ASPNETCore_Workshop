@@ -1,0 +1,8 @@
+﻿@model List<Duyuru>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Başlık - @item.Tarih.ToString("dd.MM.yyyy")</li>
+    }
+</ul>

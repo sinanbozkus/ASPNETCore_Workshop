@@ -1,0 +1,44 @@
+﻿@model KullaniciFormuViewModel
+
+@Html.Partial("_MesajPartial")
+
+<br /><br /><br />
+
+<form action="/Kullanici/Kaydet" method="post">
+
+    <label>Ad:</label> <input type="text" id="txtAd" name="ad" />
+    <br /><br />
+    <label>Soyad:</label> <input type="text" id="txtSoyad" name="soyad" />
+    <br /><br />
+    <button type="submit">Kaydet</button>
+
+</form>
+
+<br /><br />
+
+@using (Html.BeginForm("Kaydet", "Kullanici", FormMethod.Post))
+{
+
+    @*@Html.TextBox("ad", null, new { @class="form-control" })*@
+
+    @Html.Label("Ad:") @Html.TextBox("ad")
+    <br /><br />
+    @Html.Label("Soyad:") @Html.TextBox("soyad")
+    <br /><br />
+    <button type="submit">Kaydet</button>
+
+
+}
+
+<br /><br />
+
+<form asp-action="Kaydet" asp-controller="Kullanici" method="post">
+
+    <label asp-for="Ad"></label> <input type="text" asp-for="Ad" />
+    <br /><br />
+    <label asp-for="Soyad"></label> <input type="text" asp-for="Soyad" />
+    <br /><br />
+    <label asp-for="Aktif"></label> <input type="checkbox" asp-for="Aktif" />
+    <br /><br />
+    <button type="submit">Kaydet</button>
+</form>

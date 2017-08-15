@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\bin\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\bin\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\bin\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\bin\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\bin\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\obj\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\obj\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\obj\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.dll
+c:\users\administrator\documents\visual studio 2017\Projects\BilgeAdam_AspNetCore\BilgeAdam_AspNetCore\obj\Debug\netcoreapp1.1\BilgeAdam_AspNetCore.pdb
